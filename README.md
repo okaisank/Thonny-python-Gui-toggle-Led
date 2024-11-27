@@ -26,4 +26,4 @@ To replicate this, wire up the system as shown below:
 To replicate this, wire up the system as shown below:
 ![system_diagram](https://github.com/okaisank/Thonny-python-Gui-toggle-Led/blob/e3a7c8079f5752538e088474c818168ac7d7751a/Thonny-Toggle-LED/Capture.PNG)
 
-## I hope you enjoy.
+## I hope you enjoy. จุ๊บๆ
