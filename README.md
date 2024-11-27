@@ -10,10 +10,10 @@ To replicate this, wire up the system as shown below:
   
 2.Open Arduino copy code.
 
-To replicate this, wire up the system as shown below:
-![system_diagram]()
+To replicate this, check port....for connect serial:
+![system_diagram](https://github.com/okaisank/Thonny-python-Gui-toggle-Led/blob/b5d3aa0fe497101cd34a946a8fa686d89f28c295/port.jpg)
 
-check port....for connect serial
+
 
 
   
