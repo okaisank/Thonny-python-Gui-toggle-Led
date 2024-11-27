@@ -19,7 +19,11 @@ To replicate this, check port....for connect serial:
 To replicate this, wire up the system as shown below:
 ![system_diagram](https://github.com/okaisank/Thonny-python-Gui-toggle-Led/blob/b5d3aa0fe497101cd34a946a8fa686d89f28c295/port.jpg)
 
-## 4.Open Thonny >  Check serial port...> Run .....I hope you enjoy.
+## 4.Open Thonny >  Check serial port...> Run 
+
+
 
 To replicate this, wire up the system as shown below:
 ![system_diagram](https://github.com/okaisank/Thonny-python-Gui-toggle-Led/blob/e3a7c8079f5752538e088474c818168ac7d7751a/Thonny-Toggle-LED/Capture.PNG)
+
+##.....I hope you enjoy.
